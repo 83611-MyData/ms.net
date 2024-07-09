@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AssignmentSol2/1.0.0": {
+        "runtime": {
+          "AssignmentSol2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssignmentSol2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

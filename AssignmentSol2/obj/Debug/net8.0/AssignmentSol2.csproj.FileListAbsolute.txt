@@ -1,0 +1,14 @@
+J:\msnetprac\assignments\AssignmentSol2\bin\Debug\net8.0\AssignmentSol2.exe
+J:\msnetprac\assignments\AssignmentSol2\bin\Debug\net8.0\AssignmentSol2.deps.json
+J:\msnetprac\assignments\AssignmentSol2\bin\Debug\net8.0\AssignmentSol2.runtimeconfig.json
+J:\msnetprac\assignments\AssignmentSol2\bin\Debug\net8.0\AssignmentSol2.dll
+J:\msnetprac\assignments\AssignmentSol2\bin\Debug\net8.0\AssignmentSol2.pdb
+J:\msnetprac\assignments\AssignmentSol2\obj\Debug\net8.0\AssignmentSol2.GeneratedMSBuildEditorConfig.editorconfig
+J:\msnetprac\assignments\AssignmentSol2\obj\Debug\net8.0\AssignmentSol2.AssemblyInfoInputs.cache
+J:\msnetprac\assignments\AssignmentSol2\obj\Debug\net8.0\AssignmentSol2.AssemblyInfo.cs
+J:\msnetprac\assignments\AssignmentSol2\obj\Debug\net8.0\AssignmentSol2.csproj.CoreCompileInputs.cache
+J:\msnetprac\assignments\AssignmentSol2\obj\Debug\net8.0\AssignmentSol2.dll
+J:\msnetprac\assignments\AssignmentSol2\obj\Debug\net8.0\refint\AssignmentSol2.dll
+J:\msnetprac\assignments\AssignmentSol2\obj\Debug\net8.0\AssignmentSol2.pdb
+J:\msnetprac\assignments\AssignmentSol2\obj\Debug\net8.0\AssignmentSol2.genruntimeconfig.cache
+J:\msnetprac\assignments\AssignmentSol2\obj\Debug\net8.0\ref\AssignmentSol2.dll
