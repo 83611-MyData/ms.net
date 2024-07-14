@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AssignmentSol10/1.0.0": {
+        "runtime": {
+          "AssignmentSol10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssignmentSol10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
